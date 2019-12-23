@@ -1,0 +1,25 @@
+.body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+.log {
+  display: block;
+  max-width: 400px;
+  max-height: 400px;
+  background-position: center;
+  background-size: cover;
+}
+.heading {
+  background-color: #22a6b3;
+  text-align: center;
+  color: #dff9fb;
+  padding: 10px;
+
+  text-transform: uppercase;
+}
